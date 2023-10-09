@@ -1,6 +1,6 @@
 # 开发环境前端地址
-127.0.0.1 ins-vasms-web-test.jd.com
-# 11.183.140.82 ins-vasms-web-test.jd.com
+# 127.0.0.1 ins-vasms-web-test.jd.com
+11.183.140.82 ins-vasms-web-test.jd.com
 
 # 预发环境前端地址：所有线上机器(预发环境)的ip都是172.23.68.1
 172.23.68.1 ins-vasms-web.jd.com
