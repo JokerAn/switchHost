@@ -6,7 +6,7 @@
 172.23.68.1 ins-vasms-web.jd.com
 
 # 后端test接口ip
-11.183.241.1 ins-vasms-web-test-api.jd.com
+11.183.128.210 ins-vasms-web-test-api.jd.com
 
 # 预发-后台api接口地址
 172.23.68.1 ins-vasms-web-api.jd.com
